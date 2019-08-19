@@ -1,0 +1,6 @@
+== Version 1.1 ==
+*Fixed: Corrupted ZIP (Bad Zip file) error
+Effected file: template/Default/download.php
++Added: Delete ZIP files older than 24 hours feauture. (Disk usage reduced)
+Effected file: system/action.php
+==Version 1.0==
